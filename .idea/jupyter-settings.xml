@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="knownRemoteServers">
+      <list>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="6ec1588d0910e85dbd9c9bd622f83be3166a7db4bbea6fbd" />
+          <option name="urlString" value="http://172.18.36.112:8288/" />
+          <authParams2>
+            <map>
+              <entry key="token" value="6ec1588d0910e85dbd9c9bd622f83be3166a7db4bbea6fbd" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+      </list>
+    </option>
+    <option name="moduleParameters">
+      <map>
+        <entry key="$PROJECT_DIR$/../Prompt-Diffusion/.idea/Prompt-Diffusion.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="authType" value="notebook" />
+              <option name="token" value="6ec1588d0910e85dbd9c9bd622f83be3166a7db4bbea6fbd" />
+              <option name="urlString" value="http://172.18.36.112:8288/" />
+              <authParams2>
+                <map>
+                  <entry key="token" value="6ec1588d0910e85dbd9c9bd622f83be3166a7db4bbea6fbd" />
+                </map>
+              </authParams2>
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
